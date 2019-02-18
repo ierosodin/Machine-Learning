@@ -1,6 +1,5 @@
 # Machine Learning
 
-> Organization contact [name= [ierosodin](ierosodin@gmail.com)]
 ###### tags: `machine learning`
 
 Topics
