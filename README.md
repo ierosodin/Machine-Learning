@@ -6,26 +6,26 @@
 Topics
 ---
 
-### [**Regression, LSE and rLSE**](https://hackmd.io/s/ByncI6LuQ#)
+### [**Regression, LSE and rLSE**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FByncI6LuQ%23)
 
-### [**Newton method**](https://hackmd.io/s/B1_Bzdi5Q#)
+### [**Newton method**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FB1_Bzdi5Q%23)
 
-### [**Probability and Naive baye's classifier**](https://hackmd.io/s/ryLjCisqX#)
+### [**Probability and Naive baye's classifier**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FryLjCisqX%23)
 
-### [**Information theory**](https://hackmd.io/s/H1pe8pJoX#)
+### [**Information theory**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FH1pe8pJoX%23)
 
-### [**Probability distribution**](https://hackmd.io/s/HJK1ng3cQ#)
+### [**Probability distribution**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FHJK1ng3cQ%23)
 
-### [**Conjugate prior and posterior**](https://hackmd.io/s/HkBXOG_BV#)
+### [**Conjugate prior and posterior**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FHkBXOG_BV%23)
 
-### [**Gaussian**](https://hackmd.io/s/SkxpdXWsm#)
+### [**Gaussian**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FSkxpdXWsm%23)
 
-### [**Multivariate gaussian distribution**](https://hackmd.io/s/ry1YKGBj7#)
+### [**Multivariate gaussian distribution**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2Fry1YKGBj7%23)
 
-### [**From LSE to Fully bayesian**](https://hackmd.io/s/SyJme88iQ#)
+### [**From LSE to Fully bayesian**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FSyJme88iQ%23)
 
-### [**Bias**](https://hackmd.io/s/SJE6RBSpX#)
+### [**Bias**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FSJE6RBSpX%23)
 
-### [**Classification**](https://hackmd.io/s/SJT7ADraX#)
+### [**Classification**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FSJT7ADraX%23)
 
-### [**Clustering**](https://hackmd.io/s/SkwOVsrpX#)
+### [**Clustering**](https://hackmd.io/c/HynVYxdBN/https%3A%2F%2Fhackmd.io%2Fs%2FSkwOVsrpX%23)
